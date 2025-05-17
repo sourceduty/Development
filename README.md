@@ -11,3 +11,5 @@
 #
 
 [Custom GPTs](https://github.com/sourceduty/Custom_GPTs)
+<br>
+[New Science](https://github.com/sourceduty/New_Science)
